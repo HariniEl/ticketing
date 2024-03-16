@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import * as yup from 'yup'
+import * as yup from 'yup';
 import { useFormik } from 'formik';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import VisibilityOffIcon from '@mui/icons-material/VisibilityOff';

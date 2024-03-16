@@ -1,5 +1,5 @@
 import React from 'react'
-import * as yup from 'yup'
+import * as yup from 'yup';
 import { useFormik } from 'formik'
 import { API } from '../global/Api'
 import { useNavigate, useParams } from 'react-router-dom'

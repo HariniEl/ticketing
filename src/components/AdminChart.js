@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
 import{Bar,Pie} from 'react-chartjs-2'
 import { API } from '../global/Api'
 

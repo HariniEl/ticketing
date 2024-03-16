@@ -1,4 +1,4 @@
-import React, { useState ,useEffect} from 'react'
+import React, { useState ,useEffect} from 'react';
 import Brightness1Icon from '@mui/icons-material/Brightness1';
 import { API } from '../global/Api';
 import{Doughnut} from 'react-chartjs-2'

@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'
 import UserDashBoard from './components/UserDashBoard';
 import {BrowserRouter,Routes,Route, Navigate} from 'react-router-dom'
 import Createquery from './components/Createquery';

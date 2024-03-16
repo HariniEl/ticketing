@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react';
 import {API} from '../global/Api'
 import SendRoundedIcon from '@mui/icons-material/SendRounded';
 import { Button } from '@mui/material';
